@@ -35,6 +35,7 @@ select LAST_NAME,salary from EMPLOYEES where LAST_NAME in ('Chen','Baida','Himur
 
 hey this is my first time on github
 trying to understand it which tbh is kinda difficult
+marvirasheed
 
 
 
